@@ -3,7 +3,7 @@
 
 - 🤖 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **siddhaling88@gmail.com**
+- 📫 How to reach me --> **siddhaling88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
