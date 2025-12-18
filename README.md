@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhaling Sharanappa Padanur</h1>
 <h3 align="center">Bachelor of Engineering in Artificial Intelligence and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🤖 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **siddhaling88@gmail.com**
 
